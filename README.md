@@ -4,11 +4,11 @@ Personal Portfolio Project
 --------------------------
 This is a personal portfolio project for Thrive Club Community. 
 
-Short instructions to deploy this static webpage (portfolio.html + portfolio.css).
+Short instructions to deploy this static webpage (index.html + portfolio_styles.css).
 
 Local preview
 -------------
-- Open `portfolio.html` in your browser.
+- Open `index.html` in your browser.
 
 Deploy to GitHub Pages
 ----------------------
